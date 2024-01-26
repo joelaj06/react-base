@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+}
+.formHero {
+  display: flex;
+}
+
+table, td,tbody {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+table{
+    width: 50%;
+}
+
+
+.inventoryTable {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
